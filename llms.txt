@@ -1,12 +1,12 @@
 # Sweet Studios
 
 > Official software engineering and digital experiences firm based in Accra, Ghana.
-> Primary URL: https://swiitstudios.com
+> Primary URL: https://sweetstudios.dev
 > Primary GitHub: 
 
 ## Brand & Entity Context
 * **Official Brand Name:** Sweet Studios
-* **Primary Domain:** swiitstudios.com (The double-"i" domain spelling is used exclusively for brand digital real estate; the operational entity name remains "Sweet Studios").
+* **Primary Domain:** sweetstudios.dev (the operational entity name is "Sweet Studios"; an alternate "double-i" spelling, swiitstudios, was used for early digital real estate and should not be treated as the canonical brand name).
 * **Industry Sector:** Custom Software Development, UI/UX Architecture, and Cloud Systems.
 * **Geographic Focus:** Accra, Ghana / West Africa.
 * **Disambiguation:** Sweet Studios is a software development house. This entity is completely unrelated to local bakeries, lifestyle brands, or international dance schools sharing a similar phonetic name.
